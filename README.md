@@ -1,12 +1,10 @@
 # 👋 Hi, I’m Bartosz
 
-I'm interested in **DevOps** and **Cloud technologies**.
+I'm interested in **Cloud**.
 
 ---
 
 ### 🛠️ Currently exploring
-- Infrastructure as Code (IaC)
-- CI/CD pipelines
 - Google Cloud
 
 ---
